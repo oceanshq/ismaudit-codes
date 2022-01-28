@@ -10,6 +10,8 @@
 ## 1.4. Functional Requirements For A Safety Management System
 
 - 1.4.1 Every Company should develop, implement and maintain a safety management system (SMS) including a Safety and environmental-protection policy
+- 1.4.2 instructions and procedures to ensure safe operation of ships and protection of the 
+environment in compliance with relevant international and flag State legislation; 
 - 1.4.3 Every Company should develop, implement and maintain a safety management system (SMS) including defined levels of authority and lines of communication between, and amongst, shore and shipboard personnel
 - 1.4.4 Every Company should develop, implement and maintain a safety management system (SMS) including procedures for reporting accidents and non-conformities with the provisions of this Code
 - 1.4.5 Every Company should develop, implement and maintain a safety management system (SMS) including procedures to prepare for and respond to emergency situations
@@ -26,6 +28,16 @@
 - 3.2 The Company should define and document the responsibility, authority and interrelation of all personnel who manage, perform and verify work relating to and affecting safety and pollution prevention
 - 3.3 The Company is responsible for ensuring that adequate resources and shore-based support are provided to enable the designated person or persons to carry out their function
 
+## 4. DESIGNATED PERSON(S)
+-To ensure the safe operation of each ship and to provide a link between the Company 
+and those on board, every Company, as appropriate, should designate a person or 
+persons ashore having direct access to the highest level of management. The 
+responsibility and authority of the designated person or persons should include 
+monitoring the safety and pollution- prevention aspects of the operation of each ship 
+and ensuring that adequate resources and shore-based support are applied, as 
+required.
+
+
 ## 5. Masters Responsibility And Authority
 
 - 5.1.1 The Company should clearly define and document the master's responsibility with regard to implementing the safety and environmental-protection policy of the Company
@@ -33,6 +45,12 @@
 - 5.1.3 The Company should clearly define and document the master's responsibility with regard to issuing appropriate orders and instructions in a clear and simple manner
 - 5.1.4 The Company should clearly define and document the master's responsibility with regard to verifying that specified requirements are observed
 - 5.1.5 The Company should clearly define and document the master's responsibility with regard to periodically reviewing the SMS and reporting its deficiencies to the shore-based management
+- 5.2 The Company should ensure that the SMS operating on board the ship contains a 
+clear statement emphasizing the master's authority. The Company should establish in 
+the SMS that the master has the overriding authority and the responsibility to make 
+decisions with respect to safety and pollution prevention and to request the Company's 
+assistance as may be necessary.
+
 
 ## 6. Resources And Personnel
 
@@ -41,10 +59,21 @@
 - 6.1.3 The Company should ensure that the master is given the necessary support so that the master's duties can be safely performed
 - 6.2.1 The Company should ensure that each ship is manned with qualified, certificated and medically fit seafarers in accordance with national and international requirements
 - 6.2.2 The Company should ensure that each ship is appropriately manned in order to encompass all aspects of maintaining safe operation on board
+- 6.3 The Company should establish procedures to ensure that new personnel and personnel 
+transferred to new assignments related to safety and protection of the environment 
+are given proper familiarization with their duties. Instructions which are essential to 
+be provided prior to sailing should be identified, documented and given. 
 - 6.4 The Company should ensure that all personnel involved in the Company's SMS have an adequate understanding of relevant rules, regulations, codes and guidelines
 - 6.5 The Company should establish and maintain procedures for identifying any training which may be required in support of the SMS and ensure that such training is provided for all personnel concerned
 - 6.6 The Company should establish procedures by which the ship's personnel receive relevant information on the SMS in a working language or languages understood by them
 - 6.7 The Company should ensure that the ship's personnel are able to communicate effectively in the execution of their duties related to the SMS
+
+## 7. SHIPBOARD OPERATIONS 
+-The Company should establish procedures, plans and instructions, , including checklist 
+as appropriate, for key shipboard operations concerning the safety of the personnel, 
+ship and protection of the environment. The various tasks should be defined and 
+assigned to qualified personnel.
+
 
 ## 8. Emergency Preparedness
 
@@ -64,6 +93,11 @@
 - 10.2.2 In meeting these requirements the Company should ensure that any non-conformity is reported, with its possible cause, if known
 - 10.2.3 In meeting these requirements the Company should ensure that appropriate corrective action is taken
 - 10.2.4 In meeting these requirements the Company should ensure that records of these activities are maintained
+- 10.3 The Company should identify equipment and technical systems the sudden 
+operational failure of which may result in hazardous situations. The SMS should 
+provide for specific measures aimed at promoting the reliability of such equipment or 
+systems. These measures should include the regular testing of stand-by arrangements 
+and equipment or technical systems that are not in continuous use. 
 - 10.4 The inspections mentioned in 10.2 as well as the measures referred to in 10.3 should be integrated into the ship's operational maintenance routine
 
 ## 11. Documentation
@@ -72,9 +106,17 @@
 - 11.2.1 The Company should ensure that valid documents are available at all relevant locations
 - 11.2.2 The Company should ensure that changes to documents are reviewed and approved by authorized personnel
 - 11.2.3 The Company should ensure that obsolete documents are promptly removed
+- 11.3 The documents used to describe and implement the SMS may be referred to as the 
+Safety Management Manual. Documentation should be kept in a form that the 
+Company considers most effective. Each ship should carry on board all 
+documentation relevant to that ship. 
+
 
 ## 12. Company verification, review and evaluation
-
+- 12.1 The Company should carry out internal safety audits on board and ashore at 
+intervals not exceeding twelve months to verify whether safety and 
+pollution-prevention activities comply with the SMS. In exceptional circumstances, 
+this interval may be exceeded by not more than three months. 
 - 12.2 The Company should periodically verify whether all those undertaking delegated ISM-related tasks are acting in conformity with the Company’s responsibilities under the Code
 - 12.3 The Company should periodically evaluate the effectiveness of the SMS in accordance with procedures established by the Company
 - 12.4 The audits and possible corrective actions should be carried out in accordance with documented procedures
