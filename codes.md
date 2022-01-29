@@ -29,8 +29,7 @@
 
 ## 4. Designated Person(s)
 
-- To ensure the safe operation of each ship and to provide a link between the Company and those on board, every Company, as appropriate, should designate a person or persons ashore having direct access to the highest level of management. The responsibility and authority of the designated person or persons should include monitoring the safety and pollution prevention aspects of the operation of each ship and ensuring that adequate resources and shore-based support are applied, as 
-required
+- To ensure the safe operation of each ship and to provide a link between the Company and those on board, every Company, as appropriate, should designate a person or persons ashore having direct access to the highest level of management. The responsibility and authority of the designated person or persons should include monitoring the safety and pollution prevention aspects of the operation of each ship and ensuring that adequate resources and shore-based support are applied, as required
 
 ## 5. Masters Responsibility And Authority
 
