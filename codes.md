@@ -47,10 +47,7 @@
 - 6.1.3 The Company should ensure that the master is given the necessary support so that the master's duties can be safely performed
 - 6.2.1 The Company should ensure that each ship is manned with qualified, certificated and medically fit seafarers in accordance with national and international requirements
 - 6.2.2 The Company should ensure that each ship is appropriately manned in order to encompass all aspects of maintaining safe operation on board
-- 6.3 The Company should establish procedures to ensure that new personnel and personnel 
-transferred to new assignments related to safety and protection of the environment 
-are given proper familiarization with their duties. Instructions which are essential to 
-be provided prior to sailing should be identified, documented and given. 
+- 6.3 The Company should establish procedures to ensure that new personnel and personnel transferred to new assignments related to safety and protection of the environment are given proper familiarization with their duties. Instructions which are essential to be provided prior to sailing should be identified, documented and given
 - 6.4 The Company should ensure that all personnel involved in the Company's SMS have an adequate understanding of relevant rules, regulations, codes and guidelines
 - 6.5 The Company should establish and maintain procedures for identifying any training which may be required in support of the SMS and ensure that such training is provided for all personnel concerned
 - 6.6 The Company should establish procedures by which the ship's personnel receive relevant information on the SMS in a working language or languages understood by them
@@ -88,7 +85,6 @@ be provided prior to sailing should be identified, documented and given.
 - 11.2.2 The Company should ensure that changes to documents are reviewed and approved by authorized personnel
 - 11.2.3 The Company should ensure that obsolete documents are promptly removed
 - 11.3 The documents used to describe and implement the SMS may be referred to as the Safety Management Manual. Documentation should be kept in a form that the Company considers most effective. Each ship should carry on board all documentation relevant to that ship
-
 
 ## 12. Company Verification, Review and Evaluation
 
