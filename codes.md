@@ -10,7 +10,7 @@
 ## 1.4. Functional Requirements For A Safety Management System
 
 - 1.4.1 Every Company should develop, implement and maintain a safety management system (SMS) including a Safety and environmental-protection policy
-- 1.4.2 instructions and procedures to ensure safe operation of ships and protection of the environment in compliance with relevant international and flag State legislation
+- 1.4.2 Every Company should develop, implement and maintain a safety management system (SMS) including instructions and procedures to ensure safe operation of ships and protection of the environment in compliance with relevant international and flag State legislation
 - 1.4.3 Every Company should develop, implement and maintain a safety management system (SMS) including defined levels of authority and lines of communication between, and amongst, shore and shipboard personnel
 - 1.4.4 Every Company should develop, implement and maintain a safety management system (SMS) including procedures for reporting accidents and non-conformities with the provisions of this Code
 - 1.4.5 Every Company should develop, implement and maintain a safety management system (SMS) including procedures to prepare for and respond to emergency situations
@@ -25,7 +25,7 @@
 
 - 3.1 If the entity who is responsible for the operation of the ship is other than the owner, the owner must report the full name and details of such entity to the Administration
 - 3.2 The Company should define and document the responsibility, authority and interrelation of all personnel who manage, perform and verify work relating to and affecting safety and pollution prevention
-- 3.3 The Company is responsible for ensuring that adequate resources and shore-based support are provided to enable the designated person or persons to carry out their function
+- 3.3 The Company is responsible for ensuring that adequate resources and shore-based support are provided to enable the designated person or persons to carry out their functions
 
 ## 4. Designated Person(s)
 
